@@ -61,4 +61,4 @@ Para saber de onde é um CPF, basta ignorar os dois dígitos verificadores e obs
 
 Por exemplo: se existisse, o CPF 629353495-31 seria da Bahia ou do Sergipe, porque 5, o último algarismo antes dos dígitos verificadores, identifica esses dois Estados.
 
-Agora que tal criar um programa em C, PHP, Java ou Visual Basic,  de validação ou geração de cpf de acordo com o estado?
+Agora  para estudar  em JAVA e otimo !! 
