@@ -1,6 +1,6 @@
-# GeradorAlgoritmodoCPF
-criar um programa em Java ou Visual Basic,  de validação ou geração de CPF de acordo com o estado?
-
+ GeradorAlgoritmodoCPF  
+ 
+  
 
 Algoritmo do CPF – O que está por trás do gerador de CPF
 Para exemplificar o processo vamos gerar um CPF válido, calculando os dígitos verificadores de um número hipotético, 111.444.777-XX.
